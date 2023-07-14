@@ -17,7 +17,7 @@
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Circular-Progress-bar/
+     https://prasannad02.github.io/Circular-progress-bar/
 ## Getting Started
 
 To use Prasanna - Circular progress bar, follow these steps:
